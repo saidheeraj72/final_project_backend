@@ -180,7 +180,7 @@ async def add_cattle(
         raise HTTPException(status_code=500, detail=str(e))
 
 # ================== CHATBOT FUNCTIONALITY ==================
-GROQ_API_KEY = os.getenv("GROQ_API")
+GROQ_API_KEY = "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"
 FAISS_DB_DIR = "faiss_dbs"
 os.makedirs(FAISS_DB_DIR, exist_ok=True)
 
