@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+torch
+opencv-python
+numpy
+pillow
+ultralytics
+torchvision
+pdfplumber
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
